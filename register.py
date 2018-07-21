@@ -1,3 +1,6 @@
+import os
+
+
 regname = input("Enter requested username: ")
 
 currusers = open("users.txt", "r+")
