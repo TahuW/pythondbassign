@@ -1,0 +1,21 @@
+import tkinter library
+
+
+users = open users.txt
+
+userlist = read lines of user
+
+
+the frame for the login screen
+
+
+		all the defining for the login system, buttons, labels, entries, and commands
+
+
+
+root = the frame
+lf = the earlier defined login frame
+root.mainloop() loops the login frame
+passwd.close()
+users.close()
+closes the files
